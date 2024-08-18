@@ -64,6 +64,8 @@ Hello! I'm Abdul Wahab, a passionate Full Stack Web Developer with extensive exp
 
 - **LinkedIn:** [Abdul Wahab](https://www.linkedin.com/in/shkwahab/)
 - **Email:** [shkwahab60@gamil.com](mailto:shkwahab60@gmail.com)
+- **Whatsapp Me:** [+92 325 5051977](https://wa.me/+923255051977)
+  
 
 ---
 
@@ -74,7 +76,6 @@ Check out some of my projects and contributions to the open-source community!
 - ** Real Time Group Chat App Backend:**  [Real Time Group Chat App Backend](https://github.com/shkwahab/chatappbackendnestjs)
 - ** Real Time Group Chat App Frontend:**   [Real Time Group Chat App Frontend](https://github.com/shkwahab/chatappUi)
 - ** Next.js MultiTheme Blog and Portfolio Template with Content Cms:** [https://github.com/shkwahab/next_portflio](https://elitsolutions.vercel.app/)
-- 
 ---
 
 ### 💬 Let's Connect
